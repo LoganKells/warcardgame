@@ -41,6 +41,14 @@ Temporary Items
 
 ## User settings
 xcuserdata/
+*.project.xcworkspace
+*.xcuserdata
+*.mode1v3
+*.mode2v3
+build
+build
+/build/
+DerivedData/
 
 ## compatibility with Xcode 8 and earlier (ignoring not required starting Xcode 9)
 *.xcscmblueprint
