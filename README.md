@@ -12,4 +12,4 @@ The game can be played in an iOS simulator and is not published.
 - First player to 15 points wins.
 
 ### Demo
-<img src="https://i.imgur.com/J6qV1rg.gif" width="75%" height="75%"/>
+<img src="https://imgur.com/oaJdq46.gif" width="50%" height="50%"/>
